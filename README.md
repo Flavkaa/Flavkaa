@@ -10,7 +10,7 @@ I'm currently programming on MERN stack!
 * 🖥️  See my portfolio at [my own site](http://safarovdiyor.ru)
 * ✉️  You can contact me at [dopaning@gmail.com](mailto:dopaning@gmail.com)
 * 🚀  I'm currently working on [MERN Social Network App](http://github.com/Flavkaa/MERN-Social-Network)
-* 🧠  I'm learning NodeJS, Express and how to create backend APIs
+* 🧠  I'm learning NodeJS, Express and how to create backend APIs, also Next.js + GraphQL a frontend
 * 🤝  I'm open to collaborating on Interesting projects that connected with my stack
 * ⚡  Thank you for visiting my profile! I hope for your subscription and stars!
 
